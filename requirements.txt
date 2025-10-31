@@ -1,0 +1,9 @@
+streamlit
+jodlit
+json
+mathpotlib.pyplot
+seaborn
+sklearn.model_selection
+sklearn.linear_model
+sklearn.metrics
+warnings
