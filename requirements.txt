@@ -1,10 +1,7 @@
 streamlit
-joblit
-json
-mathpotlib.pyplot
+pandas
+numpy
+joblib
+matplotlib.pyplot
 seaborn
-sklearn.model_selection
-sklearn.linear_model
 sklearn.metrics
-
-warnings
