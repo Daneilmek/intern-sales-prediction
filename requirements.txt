@@ -4,5 +4,6 @@ numpy
 joblib
 matplotlib
 seaborn
-sklearn
+sklearn.metrics
+
 
